@@ -6,7 +6,7 @@ public class TestaPessoa {
         P1.nome="Eunasci A.";
         P1.idade=9999;
         
-        
+
         P1.fazAniversario();
         System.out.println(P1.nome+" "+P1.idade + "...");
         
